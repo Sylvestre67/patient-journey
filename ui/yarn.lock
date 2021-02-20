@@ -1457,6 +1457,11 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
+"@react-pdf-viewer/core@2.4.0":
+  version "2.4.0"
+  resolved "https://registry.npmjs.org/@react-pdf-viewer/core/-/core-2.4.0.tgz#3a349792a72f069a042b893503e3a6593f4c0459"
+  integrity sha512-+RluL4nxDVIMSd70ffMr3CM01cEoN9SIIYUKl68is/Ybod+xuLAzIJ08nuScHxOl/SvaCrNISL3WQ50QnRw4kQ==
+
 "@rollup/plugin-node-resolve@^7.1.1":
   version "7.1.3"
   resolved "https://registry.npmjs.org/@rollup/plugin-node-resolve/-/plugin-node-resolve-7.1.3.tgz#80de384edfbd7bfc9101164910f86078151a3eca"
@@ -8130,6 +8135,11 @@ pbkdf2@^3.0.3:
     ripemd160 "^2.0.1"
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
+
+pdfjs-dist@2.6.347:
+  version "2.6.347"
+  resolved "https://registry.npmjs.org/pdfjs-dist/-/pdfjs-dist-2.6.347.tgz#f257ed66e83be900cd0fd28524a2187fb9e25cd5"
+  integrity sha512-QC+h7hG2su9v/nU1wEI3SnpPIrqJODL7GTDFvR74ANKGq1AFJW16PH8VWnhpiTi9YcLSFV9xLeWSgq+ckHLdVQ==
 
 performance-now@^2.1.0:
   version "2.1.0"
